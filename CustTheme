@@ -179,7 +179,7 @@
   },
   "fonts": {
         "ABCGintoNord-ExtraBold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-ExtraBold.ttf",
-        "ggsans-Bold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Bold.ttf",
+        "ggsans-Bold": https://github.com/Link2467/customTheme/raw/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Bold.ttf",
         "ggsans-BoldItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-BoldItalic.ttf",
         "ggsans-ExtraBold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-ExtraBold.ttf",
         "ggsans-ExtraBoldItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-ExtraBoldItalic.ttf",
@@ -189,7 +189,7 @@
         "ggsans-NormalItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Italic.ttf",
         "ggsans-Semibold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-SemiBold.ttf",
         "ggsans-SemiboldItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-SemiBoldItalic.ttf",
-        "NotoSans-Bold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Bold.ttf",
+        "NotoSans-Bold": https://github.com/Link2467/customTheme/raw/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Bold.ttf",
         "NotoSans-ExtraBold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-ExtraBold.ttf",
         "NotoSans-Medium": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Medium.ttf",
         "NotoSans-Normal": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Regular.ttf",
