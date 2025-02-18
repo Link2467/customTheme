@@ -30,7 +30,7 @@
             "#03FF79"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#21122b"
+            "#000900"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#321940"
@@ -57,7 +57,7 @@
             "#000900"
         ],
         "BG_BACKDROP": [
-            "#000900"
+            "#00090066"
         ],
         "BORDER_FAINT": [
             "#000900"
@@ -87,16 +87,10 @@
             "#03FF79"
         ],
         "INTERACTIVE_MUTED": [
-            "#3A865D"
+            "#013B1C"
         ],
         "INTERACTIVE_NORMAL": [
-            "#3A865D"
-        ],
-        "MENTION_BACKGROUND": [
-            "#231238"
-        ],
-        "MENTION_FOREGROUND": [
-            "#5e476e"
+            "#025E2A"
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
             "#000900"
@@ -126,7 +120,7 @@
             "#03FF79"
         ],
         "TEXT_MUTED": [
-            "#766c80"
+            "#03FF79"
         ],
         "TEXT_NORMAL": [
             "#4AFFFF"
@@ -162,6 +156,7 @@
         "PLUM_20": "#000900",
         "PLUM_22": "#000900",
         "PLUM_24": "#000900",
+        "PRIMARY_230": "000900"
         "PRIMARY_300": "#03FF79",
         "PRIMARY_400": "#4AFFFF",
         "PRIMARY_500": "#4AFFFF",
@@ -175,27 +170,5 @@
         "RED_430": "#D41227",
         "RED_460": "#D41227",
         "WHITE_500": "#03FF79"
-    },
-    "fonts": {
-        "ABCGintoNord-ExtraBold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-ExtraBold.ttf",
-        "ggsans-Bold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Bold.ttf",
-        "ggsans-BoldItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-BoldItalic.ttf",
-        "ggsans-ExtraBold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-ExtraBold.ttf",
-        "ggsans-ExtraBoldItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-ExtraBoldItalic.ttf",
-        "ggsans-Medium": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Medium.ttf",
-        "ggsans-MediumItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-MediumItalic.ttf",
-        "ggsans-Normal": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Regular.ttf",
-        "ggsans-NormalItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Italic.ttf",
-        "ggsans-Semibold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-SemiBold.ttf",
-        "ggsans-SemiboldItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-SemiBoldItalic.ttf",
-        "NotoSans-Bold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Bold.ttf",
-        "NotoSans-ExtraBold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-ExtraBold.ttf",
-        "NotoSans-Medium": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Medium.ttf",
-        "NotoSans-Normal": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Regular.ttf",
-        "NotoSans-NormalItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Italic.ttf",
-        "NotoSans-Semibold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-SemiBold.ttf",
-        "ggmono-Semibold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-SemiBold.ttf",
-        "ggmono-Normal": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Regular.ttf"
-    },
-    "spec": 2
+    }
 }
