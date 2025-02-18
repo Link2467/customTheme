@@ -78,10 +78,10 @@
             "#000900"
         ],
         "HEADER_PRIMARY": [
-            "#03FF79"
+            "#4AFFFF"
         ],
         "HEADER_SECONDARY": [
-            "#4AFFFF"
+            "#03FF79"
         ],
         "INTERACTIVE_ACTIVE": [
             "#03FF79"
