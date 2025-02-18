@@ -1,203 +1,201 @@
 {
-  "name": "terminalTheme",
-  "description": "Trying to make a terminal theme",
-  "version": "1",
-  "authors": [
-      {
-          "name": "Link"
-          
-      }
-  ],
-  "semanticColors": {
-      "ANDROID_RIPPLE": [
-          "#000900"
-      ],
-      "CHAT_BACKGROUND": [
-          "#000900"
-      ],
-      "BACKGROUND_ACCENT": [
-          "#03FF79"
-      ],
-      "BACKGROUND_FLOATING": [
-          "#000900"
-      ],
-      "SCROLLBAR_THIN_THUMB": [
-          "#03FF79"
-      ],
-      "SCROLLBAR_THIN_TRACK": [
-          "#03FF79"
-      ],
-      "SCROLLBAR_AUTO_THUMB": [
-          "#03FF79"
-      ],
-      "BACKGROUND_MODIFIER_ACCENT": [
-          "#21122b"
-      ],
-      "BACKGROUND_MODIFIER_ACTIVE": [
-          "#321940"
-      ],
-      "BACKGROUND_PRIMARY": [
-          "#000900"
-      ],
-      "BACKGROUND_SECONDARY": [
-          "#000900"
-      ],
-      "BACKGROUND_SECONDARY_ALT": [
-          "#000900"
-      ],
-      "BACKGROUND_TERTIARY": [
-          "#000900"
-      ],
-      "BG_BASE_PRIMARY": [
-          "#000900"
-      ],
-      "BG_BASE_SECONDARY": [
-          "#000900"
-      ],
-      "BG_BASE_TERTIARY": [
-          "#000900"
-      ],
-      "BG_BACKDROP":[
-          "#000900"
-      ],
-      "BORDER_FAINT": [
-          "#000900"
-      ],
-      "BORDER_STRONG": [
-          "#03FF79"
-      ],
-      "BORDER_SUBTLE": [
-          "#000900"
-      ],
-      "CARD_SECONDARY_BG": [
-          "#000900"
-      ],
-      "CARD_PRIMARY_BG": [
-          "#000900"
-      ],
-      "EMBED_BACKGROUND": [
-          "#000900"
-      ],
-      "HEADER_PRIMARY": [
-          "#03FF79"
-      ],
-      "HEADER_SECONDARY": [
-          "#4AFFFF"
-      ],
-      "INTERACTIVE_ACTIVE": [
-          "#03FF79"
-      ],
-      "INTERACTIVE_MUTED": [
-          "#3A865D"
-      ],
-      "INTERACTIVE_NORMAL": [
-          "#3A865D"
-      ],
-      "MENTION_BACKGROUND": [
-          "#231238"
-      ],
-      "MENTION_FOREGROUND": [
-          "#5e476e"
-      ],
-      "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-          "#000900"
-      ],
-      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-          "#000900"
-      ],
-      "REDESIGN_BUTTON_SECONDARY_BORDER": [
-          "#000900"
-      ],
-      "REDESIGN_CHAT_INPUT_BACKGROUND": [
-          "#000900"
-      ],
-      "SPOILER_HIDDEN_BACKGROUND": [
-          "#000000"
-      ],
-      "STATUS_DND": [
-          "#D41227"
-      ],
-      "TEXT_DANGER": [
-          "#D41227"
-      ],
-      "BUTTON_OUTLINE_DANGER_BORDER": [
-          "#D41227"
-      ],
-      "TEXT_LINK": [
-          "#03FF79"
-      ],
-      "TEXT_MUTED": [
-          "#766c80"
-      ],
-      "TEXT_NORMAL": [
-          "#4AFFFF"
-      ],
-      "TEXT_PRIMARY": [
-          "#4AFFFF"
-      ],
-      "TEXT_SECONDARY": [
-          "#03FF79"
-      ],
-      "KEYBOARD": [
-          "#000900"
-      ],
-      "PANEL_BG": [
-        "#000900"
-      ]
-  },
-  "rawColors": {
-      "BLUE_345": "#03FF79",
-      "BRAND_360": "#03FF79",
-      "BRAND_500": "#03FF79",
-      "BRAND_560": "#4AFFFF",
-      "BRAND_600": "#321e48",
-      "BRAND_630": "#2e1b41",
-      "BRAND_660": "#281839",
-      "BRAND_700": "#231532",
-      "BRAND_730": "#351f4c",
-      "PLUM_9": "#4AFFFF",
-      "PLUM_16": "#03FF79",
-      "PLUM_17": "#000900",
-      "PLUM_18": "#000900",
-      "PLUM_19": "#000900",
-      "PLUM_20": "#000900",
-      "PLUM_22": "#000900",
-      "PLUM_24": "#000900",
-      "PRIMARY_300": "#03FF79",
-      "PRIMARY_400": "#4AFFFF",
-      "PRIMARY_500": "#4AFFFF",
-      "PRIMARY_660": "#000900",
-      "PRIMARY_700": "#000900",
-      "PRIMARY_800": "#000900",
-      "GREEN_360": "#39FF14",
-      "GREEN_430": "#39FF14",
-      "GREEN_460": "#39FF14",
-      "GREEN_500": "#03FF79",
-      "RED_430": "#D41227",
-      "RED_460": "#D41227",
-      "WHITE_500": "#03FF79"
-  },
-  "fonts": {
-        "ABCGintoNord-ExtraBold": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-ExtraBold.ttf",
-        "ggsans-Bold": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-Bold.ttf",
-        "ggsans-BoldItalic": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-BoldItalic.ttf",
-        "ggsans-ExtraBold": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-ExtraBold.ttf",
-        "ggsans-ExtraBoldItalic": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-ExtraBoldItalic.ttf",
-        "ggsans-Medium": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-Medium.ttf",
-        "ggsans-MediumItalic": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-MediumItalic.ttf",
-        "ggsans-Normal": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-Regular.ttf",
-        "ggsans-NormalItalic": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-Italic.ttf",
-        "ggsans-Semibold": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-SemiBold.ttf",
-        "ggsans-SemiboldItalic": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-SemiBoldItalic.ttf",
-        "NotoSans-Bold": https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-Bold.ttf",
-        "NotoSans-ExtraBold": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-ExtraBold.ttf",
-        "NotoSans-Medium": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-Medium.ttf",
-        "NotoSans-Normal": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-Regular.ttf",
-        "NotoSans-NormalItalic": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-Italic.ttf",
-        "NotoSans-Semibold": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-SemiBold.ttf",
-        "ggmono-Semibold": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-SemiBold.ttf",
-        "ggmono-Normal": "https://github.com/Link2467/fontFile/raw/refs/heads/main/JetBrainsMono/JetBrainsMono-Regular.ttf"
-  },
-
-  "spec": 2
+    "name": "terminalTheme",
+    "description": "Trying to make a terminal theme",
+    "version": "1",
+    "authors": [
+        {
+            "name": "Link"
+        }
+    ],
+    "semanticColors": {
+        "ANDROID_RIPPLE": [
+            "#000900"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000900"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#03FF79"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000900"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#03FF79"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#03FF79"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#03FF79"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#21122b"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#321940"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000900"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000900"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000900"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000900"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#000900"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#000900"
+        ],
+        "BG_BASE_TERTIARY": [
+            "#000900"
+        ],
+        "BG_BACKDROP": [
+            "#000900"
+        ],
+        "BORDER_FAINT": [
+            "#000900"
+        ],
+        "BORDER_STRONG": [
+            "#03FF79"
+        ],
+        "BORDER_SUBTLE": [
+            "#000900"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#000900"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#000900"
+        ],
+        "EMBED_BACKGROUND": [
+            "#000900"
+        ],
+        "HEADER_PRIMARY": [
+            "#03FF79"
+        ],
+        "HEADER_SECONDARY": [
+            "#4AFFFF"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#03FF79"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#3A865D"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#3A865D"
+        ],
+        "MENTION_BACKGROUND": [
+            "#231238"
+        ],
+        "MENTION_FOREGROUND": [
+            "#5e476e"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+            "#000900"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#000900"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#000900"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#000900"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#000000"
+        ],
+        "STATUS_DND": [
+            "#D41227"
+        ],
+        "TEXT_DANGER": [
+            "#D41227"
+        ],
+        "BUTTON_OUTLINE_DANGER_BORDER": [
+            "#D41227"
+        ],
+        "TEXT_LINK": [
+            "#03FF79"
+        ],
+        "TEXT_MUTED": [
+            "#766c80"
+        ],
+        "TEXT_NORMAL": [
+            "#4AFFFF"
+        ],
+        "TEXT_PRIMARY": [
+            "#4AFFFF"
+        ],
+        "TEXT_SECONDARY": [
+            "#03FF79"
+        ],
+        "KEYBOARD": [
+            "#000900"
+        ],
+        "PANEL_BG": [
+            "#000900"
+        ]
+    },
+    "rawColors": {
+        "BLUE_345": "#03FF79",
+        "BRAND_360": "#03FF79",
+        "BRAND_500": "#03FF79",
+        "BRAND_560": "#4AFFFF",
+        "BRAND_600": "#321e48",
+        "BRAND_630": "#2e1b41",
+        "BRAND_660": "#281839",
+        "BRAND_700": "#231532",
+        "BRAND_730": "#351f4c",
+        "PLUM_9": "#4AFFFF",
+        "PLUM_16": "#03FF79",
+        "PLUM_17": "#000900",
+        "PLUM_18": "#000900",
+        "PLUM_19": "#000900",
+        "PLUM_20": "#000900",
+        "PLUM_22": "#000900",
+        "PLUM_24": "#000900",
+        "PRIMARY_300": "#03FF79",
+        "PRIMARY_400": "#4AFFFF",
+        "PRIMARY_500": "#4AFFFF",
+        "PRIMARY_660": "#000900",
+        "PRIMARY_700": "#000900",
+        "PRIMARY_800": "#000900",
+        "GREEN_360": "#39FF14",
+        "GREEN_430": "#39FF14",
+        "GREEN_460": "#39FF14",
+        "GREEN_500": "#03FF79",
+        "RED_430": "#D41227",
+        "RED_460": "#D41227",
+        "WHITE_500": "#03FF79"
+    },
+    "fonts": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-ExtraBold.ttf",
+        "ggsans-Bold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-ExtraBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-ExtraBoldItalic.ttf",
+        "ggsans-Medium": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Medium.ttf",
+        "ggsans-MediumItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-MediumItalic.ttf",
+        "ggsans-Normal": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Italic.ttf",
+        "ggsans-Semibold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-SemiBoldItalic.ttf",
+        "NotoSans-Bold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-ExtraBold.ttf",
+        "NotoSans-Medium": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Medium.ttf",
+        "NotoSans-Normal": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Regular.ttf",
+        "NotoSans-NormalItalic": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Italic.ttf",
+        "NotoSans-Semibold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-SemiBold.ttf",
+        "ggmono-Semibold": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-SemiBold.ttf",
+        "ggmono-Normal": "https://github.com/Link2467/customTheme/blob/1b65f0f17ea28eb54252a42b74203f6bf89d054f/JetBrainsMono/JetBrainsMono-Regular.ttf"
+    },
+    "spec": 2
 }
