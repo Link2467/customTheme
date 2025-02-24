@@ -30,7 +30,7 @@
             "#03FF79"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#03FF79"
+            "#4AFFFF"
         ],
         "INTERACTIVE_MUTED": [
             "#025E2A"
@@ -87,7 +87,7 @@
             "#000900"
         ],
         "CHANNEL_ICON": [
-            "#4AFFFF"
+            "#7C767C"
         ],
         "CHAT_BACKGROUND": [
             "#000900"
@@ -161,6 +161,9 @@
         "THREAD_CHANNEL_SPINE": [
             "#4AFFFF"
         ],
+        "REDESIGN_CHANNEL_NAME_TEXT": [
+            "#7C767C"
+        ],
         "BG_BRAND": [
             "#000900"
         ]
@@ -176,9 +179,9 @@
         "BRAND_660": "#281839",
         "BRAND_700": "#231532",
         "BRAND_730": "#351f4c",
-        "PLUM_1": "#03FF79",
-        "PLUM_3": "#4AFFFF",
-        "PLUM_6": "#03FF79",
+        "PLUM_1": "#4AFFFF",
+        "PLUM_3": "#03FF79",
+        "PLUM_6": "#4AFFFF",
         "PLUM_9": "#4AFFFF",
         "PLUM_10": "#03FF79",
         "PLUM_11": "#000900",
