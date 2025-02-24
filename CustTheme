@@ -157,6 +157,12 @@
         ],
         "PANEL_BG": [
             "#000900"
+        ],
+        "THREAD_CHANNEL_SPINE": [
+            "#4AFFFF"
+        ],
+        "BG_BRAND": [
+            "#000900"
         ]
     },
     "rawColors": {
@@ -186,7 +192,7 @@
         "PLUM_20": "#000900",
         "PLUM_22": "#000900",
         "PLUM_24": "#000900",
-        "PRIMARY_230": "#000900",
+        "PRIMARY_230": "#03FF79",
         "PRIMARY_300": "#03FF79",
         "PRIMARY_400": "#4AFFFF",
         "PRIMARY_500": "#4AFFFF",
