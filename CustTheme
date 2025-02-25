@@ -9,10 +9,10 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#03FF79"
+            "#4AFFFF"
         ],
         "HEADER_SECONDARY": [
-            "#4AFFFF"
+            "#03FF79"
         ],
         "TEXT_NORMAL": [
             "#4AFFFF"
@@ -30,7 +30,7 @@
             "#03FF79"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#4AFFFF"
+            "#03FF79"
         ],
         "INTERACTIVE_MUTED": [
             "#025E2A"
