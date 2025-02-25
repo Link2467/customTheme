@@ -9,10 +9,10 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#4AFFFF"
+            "#03FF79"
         ],
         "HEADER_SECONDARY": [
-            "#03FF79"
+            "#4AFFFF"
         ],
         "TEXT_NORMAL": [
             "#4AFFFF"
@@ -24,7 +24,7 @@
             "#03FF79"
         ],
         "INTERACTIVE_NORMAL": [
-            "#03FF79"
+            "#7C767C"
         ],
         "INTERACTIVE_HOVER": [
             "#03FF79"
@@ -101,6 +101,9 @@
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#000900"
         ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#000900"
+        ],
         "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
             "#000900"
         ],
@@ -147,7 +150,7 @@
             "#D41227"
         ],
         "BUTTON_OUTLINE_DANGER_BORDER": [
-            "#03FF79"
+            "#D41227"
         ],
         "TEXT_PRIMARY": [
             "#4AFFFF"
@@ -180,7 +183,7 @@
         "BRAND_700": "#231532",
         "BRAND_730": "#351f4c",
         "PLUM_1": "#4AFFFF",
-        "PLUM_3": "#03FF79",
+        "PLUM_3": "#7C767C",
         "PLUM_6": "#4AFFFF",
         "PLUM_9": "#4AFFFF",
         "PLUM_10": "#03FF79",
